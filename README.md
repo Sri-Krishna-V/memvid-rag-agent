@@ -1,5 +1,7 @@
 # Memvid RAG Agent with LangGraph
 
+>It is not working as expected
+
 A complete implementation of a Retrieval Augmented Generation (RAG) system using Memvid for video-based knowledge storage and LangGraph for stateful agent orchestration.
 
 ## 🎯 Features
